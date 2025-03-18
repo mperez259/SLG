@@ -6,5 +6,6 @@ Included is the code, improvements, and cost.
 [SignLanguageGloveDesign.pdf](https://github.com/user-attachments/files/19315837/SignLanguageGloveDesign.pdf)
 
 
-
 ![signLangGloveImage](https://github.com/user-attachments/assets/0497a99c-a0bb-40ac-a07f-b1821c603c3d)
+
+I need to map those voltages to something meaningful and add a gyro sensor for better detection and added usability.
